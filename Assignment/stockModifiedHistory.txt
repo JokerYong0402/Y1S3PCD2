@@ -1,0 +1,11 @@
+Reorder Quantity of Stock E114 has changed from 500 to 600 on 2023-04-20 13:05:19 by Ryan
+Quantity of Stock E114 has changed from 1283 to 1250 on 2023-04-22 18:08:11 by Ryan
+Quantity of Stock E114 has changed from 993 to 501 on 2023-04-23 20:26:26 by Ryan
+Quantity of Stock E114 has changed from 699 to 400 on 2023-04-23 23:40:41 by Ryan
+Price of Stock A104 has changed from RM5.50 to RM6.70 on 2023-04-27 08:57:12 by Ryan
+Name of Stock E116 has changed from NIke rambutan to Nike Rambutan on 2023-04-29 13:46:31
+Category of Stock E116 has changed from shoes to pants on 2023-04-29 13:47:04 by Jia Ying
+Price of Stock E116 has changed from RM799.99 to RM899.99 on 2023-04-29 13:47:22 by Jia Ying
+Reorder Quantity of Stock E116 has changed from 500 to 1000 on 2023-04-29 13:47:38 by Jia Ying
+Quantity of Stock E116 has changed from 1489 to 5 on 2023-04-29 14:04:29 by Ryan
+Minimum Level of Stock E116 has changed from 500 to 4 on 2023-04-29 14:04:42 by Ryan

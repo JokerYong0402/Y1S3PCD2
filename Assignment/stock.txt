@@ -1,0 +1,45 @@
+A101|Lays Chips|food|12.50|2365|2000|1000
+B101|100 Plus|drink|2.50|1728|2000|1500
+C101|Essentials Tee|shirt|299.99|3291|2000|1000
+D101|501 Fit Jeans|pants|599.99|2369|1500|500
+E101|Adidas Racer|shoes|399.99|4719|3000|1000
+A102|Potato Chips|food|7.50|3908|2000|500
+B102|Milo|drink|3.50|2902|2000|1000
+C102|Dri-FIT Polo|shirt|199.99|2819|3000|1000
+D102|Kando Pants|pants|499.99|3807|2500|500
+E102|New Balance 574|shoes|499.99|892|1000|1000
+A103|Tomato Chips|food|12.50|5803|4000|2000
+B103|Ribena|drink|3.50|721|500|500
+C103|Basic T-Shirt|shirt|19.99|2811|2000|1000
+D103|Retro Track|pants|499.99|3911|5000|3000
+E103|Nike Tanjun|shoes|799.99|922|500|500
+A104|Cheese sticks|food|6.70|2552|2000|1000
+A105|Chocolate bars|food|3.20|1381|1000|500
+B104|Coca-Cola|drink|4.30|3912|3000|1000
+B105|Lemonade|drink|5.10|2831|2500|1000
+B106|Red Bull|drink|7.20|1284|500|500
+B107|Sprite|drink|3.20|2912|2000|1000
+B108|Green Tea|drink|4.50|2110|2000|1000
+C104|Basic t-shirt|shirt|59.99|3219|2500|1000
+C105|Striped shirt|shirt|99.99|2199|2000|1000
+C106|Classic polo|shirt|79.99|1216|500|500
+C107|Logo t-shirt|shirt|119.99|2791|2000|1000
+C108|Workout shirt|shirt|89.99|1234|500|500
+C109|Dri-FIT|shirt|189.99|4128|2000|1000
+C110|Supima cotton|shirt|299.99|3906|2500|1000
+D104|Slim-fit|pants|299.99|1288|1000|1000
+D105|Tech Pants|pants|189.99|718|500|500
+D106|Alpha Khaki|pants|259.99|1021|500|500
+E104|Air Force 1|shoes|899.99|2911|2000|1000
+E105|Ultraboost|shoes|1299.99|1692|1000|1000
+E106|Old Skool|shoes|699.99|2925|2000|1000
+E107|990v5|shoes|499.99|3129|2500|1000
+E108|Ghost 14|shoes|799.99|2377|2000|1000
+E109|Kinvara 12|shoes|999.99|951|500|500
+E110|Speedcross 5|shoes|699.99|2512|2000|2000
+E111|Desert Boot|shoes|599.99|1295|1000|1000
+E112|Classic Clog|shoes|499.99|2612|2000|2000
+E113|Nike Boot|shoes|899.99|1818|1500|1500
+E115|Adidas Slide|shoes|150.50|1230|1000|300
+E114|Air Jordan|shoes|1000.00|598|500|200
+E116|Nike Rambutan|pants|899.99|995|4|1000
